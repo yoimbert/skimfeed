@@ -1,2 +1,2 @@
 # skimfeed
-skim feed
+skim feed Chrome app
