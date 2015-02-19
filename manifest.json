@@ -1,8 +1,8 @@
 {
  "manifest_version": 2,
  "name": "__MSG_appName__",
- "name": "Fax Webconexio",
- "version": "3",
+ "name": "Skim Feed Trend",
+ "version": "1",
  "permissions": ["webview"],
  "default_locale": "fr",
 "description": "__MSG_appDesc__",
